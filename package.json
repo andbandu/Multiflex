@@ -1,0 +1,24 @@
+{
+  "name": "kcc-multiflex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andbandu/Multiflex.git"
+  },
+  "keywords": [
+    "kcc",
+    "movie",
+    "booking"
+  ],
+  "author": "Lakshitha Sahabandu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andbandu/Multiflex/issues"
+  },
+  "homepage": "https://github.com/andbandu/Multiflex#readme"
+}
